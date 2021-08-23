@@ -12,18 +12,18 @@ Running this game is super simple. Just Compile the "Main.c" file using "gcc Mai
 
 ## How to play
 The game receives input from your keyboard's keypad
-It follows a layout something like this:
+Following a layout something like this:
 
- 7 | 8 | 9
-------------
- 4 | 5 | 6
-------------
- 1 | 2 | 3
+ # 7 | 8 | 9
+ -----------
+ # 4 | 5 | 6
+ -----------
+ # 1 | 2 | 3
  
 So, pressing the keys 1-9 will put the X or O in their respective position. Player names are highlighted with blue background color to indicate the respective player's turn
 It also has some other secret functions too 
 
-## The secret functions
+## Some secret functions
 
 Pressing the keys SHIFT + X will close the game
 Pressing the keys SHIFT + R will reset the (clears the board, and X begins the game).
