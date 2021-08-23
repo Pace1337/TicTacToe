@@ -1,14 +1,14 @@
 #ifndef MAIN_INCLUDED
 #define MAIN_INCLUDED 1
 
-#include "CheckIfPlayerWins.c"
-#include "Cursor.c"
-#include "Draw_X_And_O.c"
-#include "Font.c"
-#include "Game.c"
-#include "Grid.c"
-#include "PlayerInput.c"
-#include "PlayerNames.c"
+#include "src/CheckIfPlayerWins.c"
+#include "src/Cursor.c"
+#include "src/Draw_X_And_O.c"
+#include "src/Font.c"
+#include "src/Game.c"
+#include "src/Grid.c"
+#include "src/PlayerInput.c"
+#include "src/PlayerNames.c"
 
 int main()
 {
