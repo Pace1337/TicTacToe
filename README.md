@@ -1,8 +1,8 @@
 # Tic-Tac-toe
 
-A game that everyone loves to play (you gotta aggre on that 😉).
+A game that everyone loves to play (you gotta agree on that 😉).
 
-I have been learning C for a year and finally took a step and made my first ever (fun and playable game) TIC TAC TOE or Nots and Crosses if you're from Austrailia
+I have been learning C for a year and finally took a step and made my first ever (fun and playable game) TIC TAC TOE or Nots and Crosses if you're from Australia
 
 ## Note:
 I am using the native windows library for this game (windows.h). So, if you're a windows user then enjoy the game or else I'll re-do the game again for different platforms (Mac and linux).
