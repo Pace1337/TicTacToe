@@ -1,5 +1,5 @@
-#ifndef CURSOR_INCLUDED
-#define CURSOR_INCLUDED 1
+#ifndef CURSOR_C_INCLUDED
+#define CURSOR_C_INCLUDED 1
 
 #include <windows.h>
 
