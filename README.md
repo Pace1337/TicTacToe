@@ -34,4 +34,4 @@ There some features that will definitely add in the future
 1) An AI playing with the player
 2) A main menu
 3) Customizable player names (Note: In AI mode, the AI player will have a default name "Computer")
-4) And an infinite mode where the game will display a score board show who lost and who won in each round.
+4) And an Score mode where the game will display a score board showing who lost and who won in each round.
