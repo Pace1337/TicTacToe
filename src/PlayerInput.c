@@ -14,14 +14,6 @@ void player_X_Input();
 void player_O_Input();
 BOOLEAN InvalidInput(char);
 
-int main()
-{
-	consoleSetUp();
-	player_X_Input();
-	player_O_Input();
-	getch();
-}
-
 void player_X_Input()
 {
 	highlight_player_X_name();
