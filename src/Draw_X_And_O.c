@@ -1,4 +1,3 @@
-
 #ifndef DRAW_X_AND_O_INCLUDED
 #define DRAW_X_AND_O_INCLUDED 1
 
