@@ -16,7 +16,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -25,7 +25,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -34,7 +34,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -43,7 +43,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -52,7 +52,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -61,7 +61,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -70,7 +70,7 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
@@ -79,14 +79,14 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		printf("X wins");
+		puts("X wins");
 		getch();
 		reset();
 	}
 
 	else if (numberOfInputs == 9)
 	{
-		printf("Draw");
+		puts("Draw");
 		getch();
 		reset();
 	}
@@ -99,7 +99,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -108,7 +108,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -117,7 +117,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -126,7 +126,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -135,7 +135,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -144,7 +144,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -153,7 +153,7 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
@@ -162,14 +162,14 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		printf("O wins!");
+		puts("O wins!");
 		getch();
 		reset();
 	}
 
 	else if (numberOfInputs == 9)
 	{
-		printf("Draw");
+		puts("Draw");
 		getch();
 		reset();
 	}
