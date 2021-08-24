@@ -19,7 +19,12 @@ Following a layout something like this:
 
 ![Tic tac toe Board layout](images/Layout.jpg)
 
-So, pressing the keys 1-9 will put the X or O in their respective position. Player names are highlighted with blue background color to indicate the respective player's turn
+So, pressing the keys 1-9 will put the X or O in their respective position. Player names are highlighted with blue background color to indicate the respective player's turn.
+For example.
+![Image showing player X name highlighted indicating player X is playing](images/X_is_playing.png)
+Here X is playing.
+![Image showing player O name highlighted indicating player O is playing](images/O_is_playing.png)
+Here player O is playing.
 It also has some other secret functions too
 
 ## Some secret functions
