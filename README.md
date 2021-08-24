@@ -24,6 +24,7 @@ Following a layout something like this:
 So, pressing the keys 1-9 will put the X or O in their respective position.\
 Player names are highlighted with blue background color to indicate the respective player's turn.\
 For example.\
+\
 Here X is playing.\
 ![Image showing player X name highlighted indicating player X is playing](images/X_is_playing.png)\
 Here player O is playing.\
