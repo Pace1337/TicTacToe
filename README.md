@@ -25,7 +25,7 @@ For example.
 Here X is playing.
 ![Image showing player O name highlighted indicating player O is playing](images/O_is_playing.png)
 Here player O is playing.
-It also has some other secret functions too
+The game also has some other secret functions too
 
 ## Some secret functions
 
