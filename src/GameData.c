@@ -1,6 +1,13 @@
 #ifndef GAME_DATA_INCLUDED
 #define GAME_DATA_INCLUDED 1
 
+enum Colors
+{
+	GREEN = 0xa,
+	GREEN_WITH_BLUE_BACKGROUND = 0x9a,
+	CYAN = 0xb,
+	YELLOW = 0xe
+};
 #include <windows.h>
 char grid[3][3] = {
 

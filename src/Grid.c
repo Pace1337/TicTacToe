@@ -4,12 +4,13 @@
 #include <stdio.h>
 #include <windows.h>
 #include "Cursor.c"
+#include "GameData.c"
 
 void drawGrid();
 void drawGrid()
 {
 	HANDLE output = GetStdHandle(STD_OUTPUT_HANDLE);
-	SetConsoleTextAttribute(output, 0xb);
+	SetConsoleTextAttribute(output, CYAN);
 	char horizontal_line = 219;
 	char vertical_line = 219;
 	int i;

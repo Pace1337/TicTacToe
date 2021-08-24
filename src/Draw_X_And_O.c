@@ -2,14 +2,14 @@
 #define DRAW_X_AND_O_INCLUDED 1
 
 #include "Cursor.c"
-
+#include "GameData.c"
 void draw_X_at_grid_location(char);
 void draw_O_at_grid_location(char);
 
 void draw_X_at_grid_location(char location)
 {
 	HANDLE output = GetStdHandle(STD_OUTPUT_HANDLE);
-	SetConsoleTextAttribute(output, 0xe);
+	SetConsoleTextAttribute(output, YELLOW);
 	char character = 254;
 	int x, y;
 	switch (location)
