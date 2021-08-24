@@ -8,6 +8,7 @@ enum Colors
 	CYAN = 0xb,
 	YELLOW = 0xe
 };
+
 #include <windows.h>
 char grid[3][3] = {
 
