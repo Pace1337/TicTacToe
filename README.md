@@ -6,7 +6,7 @@ I have been learning C for a year and finally took a step and made my first ever
 
 ## Note
 
-I am using the native windows library for this game (windows.h). So, if you're a windows user then enjoy the game or else I'll re-do the game again for different platforms (Mac and linux).
+I am using the native windows library for this game (windows.h). So, if you're a windows user then enjoy the game or else I'll re-do the game again for other platforms too (Mac and linux).
 
 ## How to run
 
