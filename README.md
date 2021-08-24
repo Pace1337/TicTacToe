@@ -47,4 +47,7 @@ There some features that will definitely add in the future
 2) A main menu.
 3) Customizable player names (Note: In AI mode, the AI player will have a default name "Computer")
 4) And an Score mode where the game will display a score board showing who lost and who won in each round.
-5) The original crossing out feature is not yet implemented 😅. Yeah, I know it sucks without it. But will do that too soon 😁.
+
+## Issues
+
+The original crossing out feature is not yet implemented 😅. Yeah, I know it sucks without it. But will do that too soon 😁.
