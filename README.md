@@ -17,15 +17,7 @@ Running this game is super simple. Just Compile the "Main.c" file using "gcc Mai
 The game receives input from your keyboard's keypad
 Following a layout something like this:
 
-     |     |
-  7  |  8  |  9
-_____|_____|_____
-     |     |
-  4  |  5  |  6
-_____|_____|_____
-     |     |
-  1  |  2  |  3
-     |     |
+![Tic tac toe Board layout](images/Layout.jpg)
 
 So, pressing the keys 1-9 will put the X or O in their respective position. Player names are highlighted with blue background color to indicate the respective player's turn
 It also has some other secret functions too
