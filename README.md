@@ -30,12 +30,14 @@ Here X is playing.\
 \
 Here player O is playing.\
 ![Image showing player O name highlighted indicating player O is playing](images/O_is_playing.png)\
+\
 The game also has some other secret functions too.
 
 ## Some secret functions
 
 Pressing the keys SHIFT + X (or in other words entering upper case X) will close the game.\
-Pressing the keys SHIFT + R (or in other words entering upper case R) will reset the game (clears the terminal window, and X begins the game).
+Pressing the keys SHIFT + R (or in other words entering upper case R) will reset the game\
+(clears the terminal window, and X begins the game).
 
 ## Features that'll come in future
 
