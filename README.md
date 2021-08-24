@@ -37,7 +37,7 @@ The game also has some other secret functions too.
 
 Pressing the keys SHIFT + X (or in other words entering upper case X) will close the game.\
 Pressing the keys SHIFT + R (or in other words entering upper case R) will reset the game\
-(clears the terminal window, and X begins the game).
+(clears the terminal window and X begins the game).
 
 ## Features that'll come in future
 
