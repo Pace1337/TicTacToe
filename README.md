@@ -2,7 +2,7 @@
 
 A game that everyone loves to play (you gotta agree on that 😉).
 
-I have been learning C for a year and finally took a step and made my first ever (fun and playable game) TIC TAC TOE or Nots and Crosses if you're from Australia
+I have been learning C for a year and finally took a step and made my first ever (fun and playable game) TIC TAC TOE or Nots and Crosses if you're from Australia.
 
 ## Note
 
@@ -14,7 +14,7 @@ Running this game is super simple. Just Compile the "Main.c" file using "gcc Mai
 
 ## How to play
 
-The game receives input from your keyboard's keypad
+The game receives input from your keyboard's keypad.
 Following a layout something like this:
 
 ![Tic tac toe Board layout](images/Layout.jpg)
@@ -25,16 +25,16 @@ For example.
 Here X is playing.
 ![Image showing player O name highlighted indicating player O is playing](images/O_is_playing.png)
 Here player O is playing.
-The game also has some other secret functions too
+The game also has some other secret functions too.
 
 ## Some secret functions
 
-Pressing the keys SHIFT + X (or in other words entering upper case X) will close the game
+Pressing the keys SHIFT + X (or in other words entering upper case X) will close the game.
 Pressing the keys SHIFT + R (or in other words entering upper case R) will reset the game (clears the terminal window, and X begins the game).
 
 ## Features that'll come in future
 
-There some features that will definitely add in the future
+There some features that will definitely add in the future.
 
 1) An AI playing with the player
 2) A main menu.
