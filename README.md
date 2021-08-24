@@ -50,4 +50,5 @@ There some features that will definitely add in the future
 
 ## Issues
 
-The original crossing out feature is not yet implemented 😅. Yeah, I know it sucks without it. But will do that too soon 😁.
+The original crossing out feature is not yet implemented 😅.\
+Yeah, I know it sucks without it. But will do that too soon 😁.
