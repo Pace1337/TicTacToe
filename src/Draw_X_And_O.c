@@ -151,7 +151,7 @@ void draw_O_at_grid_location(char location)
 	switch (location)
 	{
 	case '1':
-		for (x = 22; x <= 28; x++) // Horizontal lines
+		for (x = 23; x <= 29; x++) // Horizontal lines
 		{
 			moveCursorTo(x, 25); // First one
 			putchar(character);
@@ -161,9 +161,9 @@ void draw_O_at_grid_location(char location)
 
 		for (y = 26; y <= 32; y++) // Vertical Lines
 		{
-			moveCursorTo(21, y); // First one
+			moveCursorTo(22, y); // First one
 			putchar(character);
-			moveCursorTo(29, y); // Second one
+			moveCursorTo(30, y); // Second one
 			putchar(character);
 		}
 		break;
