@@ -11,11 +11,11 @@ code just won't compile. I'll fix this issue asap
 */
 void check_If_X_Wins()
 {
+	moveCursorTo(35, 36);
 	if (grid[0][0] == 'X' && grid[0][1] == 'X' && grid[0][2] == 'X') // Checking Top Side for player X
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -25,7 +25,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -35,7 +34,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -45,7 +43,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -55,7 +52,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -65,7 +61,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -75,7 +70,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -85,7 +79,6 @@ void check_If_X_Wins()
 	{
 		player_X_turn = TRUE;
 		player_O_turn = FALSE;
-		moveCursorTo(35, 36);
 		printf("X wins");
 		getch();
 		reset();
@@ -93,7 +86,6 @@ void check_If_X_Wins()
 
 	else if (numberOfInputs == 9)
 	{
-		moveCursorTo(35, 36);
 		printf("Draw");
 		getch();
 		reset();
@@ -102,11 +94,11 @@ void check_If_X_Wins()
 
 void check_If_O_Wins()
 {
+	moveCursorTo(35, 36);
 	if (grid[0][0] == 'O' && grid[0][1] == 'O' && grid[0][2] == 'O') // Checking Top Side for player
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -116,7 +108,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -126,7 +117,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -136,7 +126,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -146,7 +135,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -156,7 +144,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -166,7 +153,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -176,7 +162,6 @@ void check_If_O_Wins()
 	{
 		player_X_turn = FALSE;
 		player_O_turn = TRUE;
-		moveCursorTo(35, 36);
 		printf("O wins!");
 		getch();
 		reset();
@@ -184,7 +169,6 @@ void check_If_O_Wins()
 
 	else if (numberOfInputs == 9)
 	{
-		moveCursorTo(35, 36);
 		printf("Draw");
 		getch();
 		reset();
