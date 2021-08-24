@@ -16,7 +16,8 @@ Just Compile the "Main.c" file using "gcc Main.c -o Main" and run the "Main.exe"
 
 ## How to play
 
-The game receives input from your keyboard's keypad\Following a layout something like this:
+The game receives input from your keyboard's keypad.\
+Following a layout something like this:
 
 ![Tic tac toe Board layout](images/Layout.jpg)
 
